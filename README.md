@@ -1,10 +1,6 @@
-# 👋 Welcome!
-
-Welcome to your remote coding task. In this document you find the instructions for the task and how to set everything up.
-
 ## 📝 Instructions
 
-At Small Improvements we are building an application targeted towards other businesses (b2b). We often have to deal with their organizational structure. Some companies have a flat hierarchy, but most companies have a traditional reporting hierarchy with multiple levels. A common task for administrators is to select a subset of the organization. For example one or a couple of teams and some users from anywhere in the organization. They might want to do a selection such as:
+Deal with organizational structure. Some companies have a flat hierarchy, but most companies have a traditional reporting hierarchy with multiple levels. A common task for administrators is to select a subset of the organization. For example one or a couple of teams and some users from anywhere in the organization. They might want to do a selection such as:
 
 ![User picker example](public/mockup.png)
 
@@ -43,8 +39,4 @@ Please follow the instructions below to get started. We already included the nec
 - NodeJS v10.1
 - npm v6.2
 
-### Setup
 
-1. Clone the project
-2. Install all dependencies with `npm install`
-3. Start the development server with `npm start`
